@@ -9,25 +9,25 @@ Issue Books
 Return Books
 Register Students
 
-#Getting starts:
+# Getting starts:
 1. Download and Unzip file on your local system copy library.
 2. Put library folder inside xampp htdocs
 
-Database Configuration
+# Database Configuration
 
 Open phpmyadmin
 Create Database new
 Import database new.sql (available inside zip package)
 
 
-Login Details for admin : 
+# Login Details for admin : 
 
-username:hunter05
-password:saurav5005
-
-how to run website:
+* **username:hunter05**
+* **password:saurav5005**
+# how to run website:
 goto the xampp control panel and click on apache admin 
 write the folder name of which is paste on htdocs
+
 #Screenshots:
 ![image](https://github.com/Sauravk0045/Library_Website/assets/170123208/afb142e2-5314-4c9f-93ca-82b2d44fecf8)
 ![image](https://github.com/Sauravk0045/Library_Website/assets/170123208/26f0c6c5-02b3-4f6f-af25-69f01d1c6979)
